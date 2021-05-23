@@ -14,3 +14,4 @@
 # limitations under the License.
 export DISPLAY="${DISPLAY:-:0}"
 python3 run_yt_voice_control.py
+
