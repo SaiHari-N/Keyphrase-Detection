@@ -1,10 +1,10 @@
 # Coral Keyphrase Detector
 
-*Kevin Kilgour (kkilgour@google.com), Google Research*<br>
-*Duc Dung Nguyen (ddung@google.com), Google Research*<br>
-*Sarah Amsellem (samsellem@google.com), Google Research*<br>
-*Dominik Roblek (droblek@google.com), Google Research*<br>
-*Michael Tyka (mtyka@google.com), Google Research*<br>
+
+
+
+
+
 
 
 A keyphrase detector, often referred to a keyword spotter (KWS) is a simple speech processing application that
